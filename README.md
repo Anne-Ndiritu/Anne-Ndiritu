@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anne! <br/><h3>👩‍🎓Information Technology Graduate <br/><h3>✍️Currently Learning Network And Cloud Security </h3></h1>
+<h1>Hi, I'm Anne! <br/><h3>👩‍🎓 An Information Technology Graduate <br/><h3>✍️Currently Learning Network And Cloud Security </h3></h1>
 <hr>
 <h2>👩‍💻 Networking Projects:</h2>
 
