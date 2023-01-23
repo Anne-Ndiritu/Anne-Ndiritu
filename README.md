@@ -4,15 +4,18 @@
 
 - <b>Network Standards,Models and Protocols </b>
   - [Examining TCP/IP and OSI Models In Action Using Packet Tracer](https://github.com/Anne-Ndiritu/Cisco-Packet-Tracer-Labs/tree/main/TCP/TCP-IP%20AND%20OSI%20MODELS%20IN%20ACTION)
-  - [Examining Network Traffic using Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  
- <h2>🏆 Networking Certifications and Badges:</h2>
- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>]
- 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Examining Network Traffic using Wireshark](https://github.com/Anne-Ndiritu/Wireshark-Labs/tree/main/Network%20Traffic%20Analysis)
 
+ <h2>🏆 Networking Certifications and Badges:</h2>
+  
+  - <b>Cisco Badge</b><br/>
+ - [Networking Essentials](https://bit.ly/409TdY3)<br/>
+  
+ - <b>Hack The Box Completed Modules </b>
+ 
+  - [Introduction to Networking](https://academy.hackthebox.com/achievement/691911/34)
+  - [Intro to Network Traffic Analysis](https://academy.hackthebox.com/achievement/691911/81)
+  
 <h2>☁️Cloud Projects</h2>
 
 <h2> 🤳 Connect with me:</h2>
