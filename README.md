@@ -3,7 +3,7 @@
 <h2>👩‍💻 Networking Projects:</h2>
 
 - <b>Network Standards,Models and Protocols </b>
-  - [Examining TCP/IP and OSI Models In Action Using Packet Tracer](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Examining TCP/IP and OSI Models In Action Using Packet Tracer](https://github.com/Anne-Ndiritu/Cisco-Packet-Tracer-Labs/tree/main/TCP/TCP-IP%20AND%20OSI%20MODELS%20IN%20ACTION)
   - [Examining Network Traffic using Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
