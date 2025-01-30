@@ -8,7 +8,7 @@
 <h2>👩‍💻 Packet Tracer Lab Projects:</h2>
 - <b> CCNA Practice Labs </b>
 
- - [Basic LAN configuration with switch virtual interface Implementation (SVI)](https://github.com/Anne-Ndiritu/CCNA-Packet-Tracer-Labs/blob/main/2.7.6-packet-tracer---implement-basic-connectivity.pka)
+ - [Basic LAN configuration with switch virtual interface implementation (SVI)](https://github.com/Anne-Ndiritu/CCNA-Packet-Tracer-Labs/blob/main/2.7.6-packet-tracer---implement-basic-connectivity.pka)
 
  <h2>🏆 Networking Certifications and Badges:</h2>
   
