@@ -7,6 +7,7 @@
   - [Examining Network Traffic using Wireshark](https://github.com/Anne-Ndiritu/Wireshark-Labs/tree/main/Network%20Traffic%20Analysis)
 <h2>👩‍💻 Packet Tracer Lab Projects:</h2>
 - <b> CCNA Practice Labs </b>
+
  - [Basic LAN configuration with switch virtual interface Implementation (SVI)]()
 
  <h2>🏆 Networking Certifications and Badges:</h2>
