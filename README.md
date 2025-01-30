@@ -5,6 +5,8 @@
 - <b>Network Standards,Models and Protocols </b>
   - [Examining TCP/IP and OSI Models In Action Using Packet Tracer](https://github.com/Anne-Ndiritu/Cisco-Packet-Tracer-Labs/tree/main/TCP/TCP-IP%20AND%20OSI%20MODELS%20IN%20ACTION)
   - [Examining Network Traffic using Wireshark](https://github.com/Anne-Ndiritu/Wireshark-Labs/tree/main/Network%20Traffic%20Analysis)
+<h2>👩‍💻 Packet Tracer Lab Projects:</h2>
+- <b> CCNA Practice Labs </b>
 
  <h2>🏆 Networking Certifications and Badges:</h2>
   
