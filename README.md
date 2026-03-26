@@ -1,5 +1,7 @@
 <h1>Hi, I'm Anne! <br/><h3>👩‍🎓 An Information Technology Graduate <br/><h3>✍️Network Engineer and Customer Service Agent </h3></h1>
 <hr>
+  <h2> Professional Skills </h2>
+  <hr>
 <h2>👩‍💻 Networking Projects:</h2>
 
 - <b>Network Standards,Models and Protocols </b>
