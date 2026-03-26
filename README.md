@@ -1,8 +1,10 @@
 <h1>Hi, I'm Anne! <br/><h3>👩‍🎓 An Information Technology Graduate <br/><h3>✍️Network Engineer and Customer Service Agent </h3></h1>
 <hr>
   <h2> Professional Skills </h2>
+  
   - <b> Customer Engagement: Phone support, written communication, complaint handling, follow-up
   ownership. </b>
+  
   - <b> Ticketing & CRM: Jibu, IBM Maximo, BMC Remedy: logging, tracking, escalation, and closure </b>
   
   - <b>Technical Troubleshooting: Connectivity issues, IP conflicts, device faults, port configuration,
