@@ -4,8 +4,10 @@
   - <b> Customer Engagement: Phone support, written communication, complaint handling, follow-up
   ownership. </b>
   - <b> Ticketing & CRM: Jibu, IBM Maximo, BMC Remedy: logging, tracking, escalation, and closure </b>
+  
   - <b>Technical Troubleshooting: Connectivity issues, IP conflicts, device faults, port configuration,
   LAN/WAN, TCP/IP, DHCP, DNS. </b>
+  
   - Network Monitoring: Huawei iMaster NCE, Nagios, Nagvis, Cacti: Used for pattern detection and
   escalation support.
   - Service Management: SLA adherence, incident management, root-cause analysis, escalation
